@@ -16,8 +16,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### The challenge
 
-Users should be able to:
-
 - See hover states for interactive elements
 
 ### Screenshot
@@ -26,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/CodinGitHub/Challenge-9-nft-preview-card-component)
-- Live Site URL: [Add live site URL here](https://challenge-9-nft-preview-card-component.vercel.app/)
+- [Solution URL:](https://github.com/CodinGitHub/Challenge-9-nft-preview-card-component)
+- [Live Site URL:](https://challenge-9-nft-preview-card-component.vercel.app/)
 
 ## My process
 
@@ -41,6 +39,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://coding-tube.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/CodinGitHub)
-- Twitter - [@yourusername](https://www.twitter.com/CodingTube)
+- Website - [CodingTube](https://coding-tube.com)
+- Frontend Mentor - [@CodinGitHub](https://www.frontendmentor.io/profile/CodinGitHub)
+- Twitter - [@CodingTube](https://www.twitter.com/CodingTube)
